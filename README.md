@@ -4,5 +4,5 @@
 ### 참고
 - 공식 사이트 : https://greensock.com/docs/v3/Installation
 - [GSAP] 애니메이션 사용법 (기초) : https://lpla.tistory.com/106
-- (JavaScript GSAP 라이브러리를 사용해서 애니메이션 효과 추가하는 방법)[https://smilehugo.tistory.com/entry/javascript-gsap-library-how-to-add-animation-effect]
+- JavaScript GSAP 라이브러리를 사용해서 애니메이션 효과 추가하는 방법 https://smilehugo.tistory.com/entry/javascript-gsap-library-how-to-add-animation-effect
 - Getting Started with GSAP: https://www.beautifulcss.com/archives/2960
